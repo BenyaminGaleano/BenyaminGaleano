@@ -1,4 +1,7 @@
-### Hi there 👋
+### Qué tal? 👋
+
+Hola soy Benyamin, actualmente me encuentro estudiando **ingeniería de sistemas** en Universidad Galileo en Guatemala 😄
+
 
 <!--
 **BenyaminGaleano/BenyaminGaleano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
